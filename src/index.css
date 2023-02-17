@@ -1,0 +1,10 @@
+.a-1{
+  padding-left: 2%;
+}
+.form-control::placeholder{
+  font-weight: bold;
+}
+
+.active{
+  color: rgb(218, 17, 17);
+}
